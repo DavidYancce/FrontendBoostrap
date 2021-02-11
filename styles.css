@@ -1,0 +1,21 @@
+
+/*ul li a:hover{
+    border-radius: 5px;
+    background: blue;
+    padding-top: 1.5px;
+    padding-bottom: 1.5px;
+}*/
+.image-logo{
+    vertical-align: center;
+    text-align: center;
+    /*background: #0d6efd!important;*/
+    background: #5C73F2 ;
+    padding-top: 1rem;
+}
+
+.navbar-collapse ul li{
+    margin-right: 1rem;
+}
+.d-flex .form-control{
+    width: 50vh;
+}
